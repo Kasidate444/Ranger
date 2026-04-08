@@ -1,14 +1,13 @@
-import Ranger from './Ranger.js'; 
+
 import Rainbow from './Rainbow.js';
 import Gaored from "./gaored.js";
-import Ranger from "./Ranger.js";
 import  Orange  from './Gaoorange.js';
 import Ranger from "./Ranger.js";
 
 
 
 
-
+/*
 const gaored = new Gaored("Kakeru Shishi", "Gao red", "Gao Lion");
 
 gaored.transform();
@@ -25,7 +24,7 @@ gaored.callAnimalSpirit();
 const quote = new Orange("ตุ๋ยดุ้ย", "Orange")
 
 quote.shout();
-
+*/
 
 
 
